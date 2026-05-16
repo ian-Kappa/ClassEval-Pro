@@ -1,0 +1,9 @@
+openai
+requests
+loguru
+tqdm
+func_timeout
+scipy
+prettytable
+pytest
+coverage
